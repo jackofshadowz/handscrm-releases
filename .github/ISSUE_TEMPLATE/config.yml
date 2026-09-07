@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: https://github.com/jackofshadowz/handscrm-releases/blob/main/SECURITY.md
+    about: Please report privately by email rather than opening an issue.
+  - name: Anything else
+    url: mailto:hello@tryhands.com
+    about: A question, an account problem, or a feature you want — a person reads this.

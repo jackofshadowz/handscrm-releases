@@ -1,0 +1,18 @@
+OpenMausBot
+Copyright 2026 Milind Soni and OpenMausBot contributors
+
+OpenMausBot was relicensed from the MIT License to the Apache License,
+Version 2.0, with the consent of all contributors whose copyright was
+incorporated before the transition.
+
+---
+
+Hands
+Copyright 2026 General Intelligence Systems
+
+Hands is a fork of OpenMausBot and contains modified versions of its files,
+together with new files that are not part of OpenMausBot. The upstream
+project, its copyright and the Apache License, Version 2.0 under which it is
+distributed all continue to apply to the code inherited from it.
+
+Upstream: https://github.com/milind-soni/OpenMausBot

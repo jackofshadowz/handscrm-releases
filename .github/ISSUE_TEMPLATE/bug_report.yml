@@ -1,0 +1,47 @@
+name: Something is broken
+description: A Hand did the wrong thing, or the app did.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before you type: if this is a **security** problem, please email hello@tryhands.com
+        instead. See [SECURITY.md](https://github.com/jackofshadowz/handscrm-releases/blob/main/SECURITY.md).
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The app's About window has it.
+      placeholder: "0.1.62"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - macOS (Apple silicon)
+        - macOS (Intel)
+        - Windows
+        - Linux
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you asked for, and what you got instead.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: How to see it again
+      description: The shortest path from a fresh start to the problem.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: |
+        Screenshots help. So does the entry from the record — every action a Hand takes has one.
+        Please take your own credentials and customer names out first.
