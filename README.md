@@ -10,7 +10,7 @@ It uses the AI you already pay for, and everything it does stays on your machine
 
 [**Download**](https://github.com/jackofshadowz/handscrm-releases/releases/latest) · [tryhands.com](https://tryhands.com) · [What a Hand does](https://tryhands.com/features) · [Pricing](https://tryhands.com/pricing) · [Questions](https://tryhands.com/faq)
 
-[![Latest release](https://img.shields.io/github/v/release/jackofshadowz/handscrm-releases?label=latest&color=2b7fff)](https://github.com/jackofshadowz/handscrm-releases/releases/latest)
+[![Early access](https://img.shields.io/badge/early%20access-open-2b7fff)](https://tryhands.com/#waitlist)
 [![Platforms](https://img.shields.io/badge/macOS%20·%20Windows%20·%20Linux-0d2440)](https://github.com/jackofshadowz/handscrm-releases/releases/latest)
 [![License](https://img.shields.io/badge/license-Apache--2.0-0d2440)](LICENSE)
 
@@ -51,8 +51,12 @@ briefs and different accounts attached.
 
 ## Download
 
-Builds are on the [releases page](https://github.com/jackofshadowz/handscrm-releases/releases/latest).
-The app updates itself from here after that.
+> **Early access.** Builds go out to a small group at a time, so the releases page below may be
+> empty when you get here. [Leave an address](https://tryhands.com/#waitlist) and you get one email
+> when yours is ready — nothing else.
+
+Builds land on the [releases page](https://github.com/jackofshadowz/handscrm-releases/releases/latest).
+The app updates itself from here afterwards.
 
 | Platform | File |
 | --- | --- |
